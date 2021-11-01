@@ -17,7 +17,6 @@ body {
     transform: translateY(-50%);
     flex-direction: column;
 }
-
 .container__location {
     float: left;
     top: 30%;
